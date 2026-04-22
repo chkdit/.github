@@ -1,0 +1,23 @@
+name: User story
+description: To create a new user story
+body:
+- type: textarea
+  attributes:
+    id: user-story
+    label: User story
+- type: textarea
+  attributes:
+    id: background
+    label: Background
+- type: textarea
+  attributes:
+    id: acceptance-criteria
+    label: Acceptance Criteria
+- type: textarea
+  attributes:
+    id: technical-notes
+    label: Technical Notes
+- type: textarea
+  attributes:
+    id: out-of-scope
+    label: Out of Scope
